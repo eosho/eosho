@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I’m a **Cloud Solutions Architect at Microsoft**, working at the intersection of **cloud**, **AI**, and **DevSecOps**.
+
+I spend a lot of time exploring how **AI** can enhance modern cloud systems — not just for innovation’s sake, but to create solutions that are reliable, maintainable, and compliant in real-world environments.
+
+If any of that resonates or you’d like to connect, you can find me on  
+👉 [LinkedIn](https://www.linkedin.com/in/ernest-oshokoya)  
+
+---
+
 <!--
 **eosho/eosho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
