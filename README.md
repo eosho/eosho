@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a **Cloud Solutions Architect at Microsoft**, working at the intersection of **cloud**, **AI**, and **DevSecOps**.
+I’m a **Cloud Solutions Architect**, working at the intersection of **cloud**, **AI**, and **DevSecOps**.
 
 I spend a lot of time exploring how **AI** can enhance modern cloud systems — not just for innovation’s sake, but to create solutions that are reliable, maintainable, and compliant in real-world environments.
 
